@@ -41,3 +41,5 @@ In the project directory run the following to set up the required libraries
 To run the app
 
 `predict.py`
+#####################################################
+Praitrained model is in folder "Model"
