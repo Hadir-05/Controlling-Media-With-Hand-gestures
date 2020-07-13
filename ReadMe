@@ -1,0 +1,43 @@
+
+         Bibliothèques:
+               tensorflow
+               keras
+               opencv
+               numpy
+               pyautogui
+
+##Le dossier "gestures" contient les gestes et leurs noms.
+
+1/Télécharger Python 3.5 ou 3.6 ou 3.7
+
+2/Télécharger anaconda
+
+3/Ouvrir anaconda prompt pour installer les bibliothèques suivantes:
+    
+    Pour installer une bibliothèque sur anaconda il faut juste écrire la commande suivante:
+
+       pip install (nom du bibliothèque)
+
+4/Sur anaconda prompt:
+    pip install tensorflow
+    pip install keras
+    pip install opencv-python 
+    pip install numpy
+    pip install pyautogui
+
+5/Après l'installation des bibliothèques:
+   
+   i/Pour tester le model: le fichier "predict.py" faut qu'il soit dans le même emplacement avec les fichiers "try.h5" et "try.json", ensuite écrire la commande suivante sur anaconda prompt: python predict.py, après ouvrir media player ou une video sur youtube et controller le avec vos gestes.
+
+##OR
+
+
+## Instructions to run
+
+In the project directory run the following to set up the required libraries
+
+`pip install -r requirements.txt`
+
+To run the app
+
+`predict.py`
