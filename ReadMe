@@ -8,9 +8,9 @@
 
 ##Le dossier "gestures" contient les gestes et leurs noms.
 
-1/Télécharger Python 3.5 ou 3.6 ou 3.7
+1/Télécharger Python 3.5 ou 3.6 ou 3.7 Link: https://www.python.org/downloads/
 
-2/Télécharger anaconda
+2/Télécharger anaconda   Link:https://docs.anaconda.com/anaconda/install/windows/
 
 3/Ouvrir anaconda prompt pour installer les bibliothèques suivantes:
     
